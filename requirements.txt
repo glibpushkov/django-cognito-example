@@ -1,7 +1,7 @@
 cffi==1.13.1
 cryptography==2.8
 Django==2.2.6
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 pycparser==2.19
 PyJWT==1.7.1
